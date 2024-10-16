@@ -1,3 +1,5 @@
 Comandos:
 
-git commit -m "mensagem"
+git commit -m "mensagem" 
+git log
+git log --oneline
